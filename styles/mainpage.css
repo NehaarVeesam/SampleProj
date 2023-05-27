@@ -194,3 +194,19 @@ nav
     -webkit-transform: translate(0, 0);
     transform: translate(0, 0)
 }
+
+.box-cont
+{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap:2px;
+}
+.box
+{
+    height: 210px;
+    width: 210px;
+    background-color: gray;
+    text-align: center;
+    border-radius: .2em;
+   width: 100%;
+}
