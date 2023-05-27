@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.intro
+{
+ background-image: url("../images/bg.jpg");
+ background-position: center;
+ position: relative;
+ background-size: cover;
+ height: 95vh;
+}
+.text-intro
+{
+    color: #fff;
+    position: absolute;
+    top: 70%;
+    left: 15%;
+}
+.sec2
+{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding-top: 10%;
+}
+.sec2 .h1
+{
+    margin-left: 25%;
+    font-size: 36px;
+    font-weight: 600;
+}
