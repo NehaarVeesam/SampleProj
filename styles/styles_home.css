@@ -10,6 +10,10 @@
  background-size: cover;
  height: 95vh;
 }
+.text-intro .ah     
+{
+    color: white;
+}
 .text-intro
 {
     color: #fff;
@@ -20,13 +24,11 @@
 .sec2
 {
     margin: auto;
-
-    
     width: 80%;
     text-align: center;
     padding-top: 10%;
 }
-.sec2 .h1
+.sec2 .a
 {
     margin-left: 25%;
     font-size: 36px;
