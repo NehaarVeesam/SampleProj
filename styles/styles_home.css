@@ -40,16 +40,19 @@
     font-size: 36px;
     font-weight: 600;
 }
-
-.containe
+.box-cont
 {
-    width: 90%;
     display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap:2px;
 }
 .box
 {
-    height: 100px;
-    color: #fff;
-    border: 2px solid white;
-    position: relative;
+    height: 210px;
+    width: 210px;
+    background-color: gray;
+    text-align: center;
+    border-radius: .2em;
+    width: 100%;
 }
+
