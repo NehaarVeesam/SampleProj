@@ -34,3 +34,16 @@
     font-size: 36px;
     font-weight: 600;
 }
+
+.containe
+{
+    width: 90%;
+    display: grid;
+}
+.box
+{
+    height: 100px;
+    color: #fff;
+    border: 2px solid white;
+    position: relative;
+}
